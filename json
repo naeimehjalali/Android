@@ -1,0 +1,24 @@
+{
+"Employee":4,
+
+[{
+  "name":"Naeimeh",
+  "jobTitle":"web developer",
+  "phone":123456
+  },
+ {
+  "name":"Jason",
+  "jobTitle":"web programmer",
+  "phone":12334456
+ },
+ {
+   "name":"Zara",
+  "jobTitle":"java progarmmer",
+  "phone":198456
+ } ,
+  {
+ "name":"John",
+  "jobTitle":"Android programmer ",
+  "phone":1287656
+ }]
+}
