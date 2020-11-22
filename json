@@ -1,6 +1,6 @@
 {
 "Employee":4,
-
+"data":
 [{
   "name":"Naeimeh",
   "jobTitle":"web developer",
@@ -22,3 +22,5 @@
   "phone":1287656
  }]
 }
+
+
