@@ -1,26 +1,21 @@
-{
-"Employee":4,
-"data":
-[{
-  "name":"Naeimeh",
-  "jobTitle":"web developer",
-  "phone":123456
+dinos.json
+[  {
+    "id": "1",
+    "name": "bart",
+    "type": "type a",
+    "color": "green"
   },
- {
-  "name":"Jason",
-  "jobTitle":"web programmer",
-  "phone":12334456
- },
- {
-   "name":"Zara",
-  "jobTitle":"java progarmmer",
-  "phone":198456
- } ,
   {
- "name":"John",
-  "jobTitle":"Android programmer ",
-  "phone":1287656
- }]
-}
-
+    "id": "2",
+    "name": "Trex",
+    "type": "type b",
+    "color": "purple"
+  },
+  {
+    "id": "3",
+    "name": "trinos",
+    "type": "type c",
+    "color": "red"
+  }
+]
 
